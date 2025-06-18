@@ -1,1 +1,1 @@
-# TwitterSentimentAnalysis
+This project is a Sentiment Analysis Web App built using Python, Streamlit, and scikit-learn. It analyzes sentiments of Twitter-like text inputs and classifies them as Positive, Neutral, or Negative using a trained Naive Bayes classifier.
